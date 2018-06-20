@@ -17,3 +17,9 @@ It's got
   
 [More Pretty Trees](https://tinyurl.com/y6va9yl5)
 
+First Header | Second Header | Third Header
+------------ | ------------- | -------------
+cell 1 | cell 2 | cell 3
+cell 4 | cell 5 | cell 6
+cell 7 | cell 8 | cell 9
+
