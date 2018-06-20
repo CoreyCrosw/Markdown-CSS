@@ -15,5 +15,5 @@ It's got
   * Pretty Reflection
   * Calm Water
   
-  http://github.com - https://tinyurl.com/y6va9yl5
+[More Pretty Trees](https://tinyurl.com/y6va9yl5)
 
