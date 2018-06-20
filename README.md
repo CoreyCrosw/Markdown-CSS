@@ -2,5 +2,5 @@
 
 *Edited 06/19/2018*
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/11334134_10206699704031713_2816838225761061414_o.jpg)
 
